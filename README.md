@@ -1,6 +1,6 @@
 # AutomobileJava
 
-in questo repository è presente il codice sorgente di un'applicazione java che permette di gestire un'automobile.
+In questa repository è presente il codice sorgente di un'applicazione java che permette di gestire un'automobile.
 E permette di gestire il consumo di carburante, la velocità e la distanza percorsa.
 
 ## Come funziona
